@@ -1,10 +1,12 @@
 package cn.thens.okparcelable
 
+import android.annotation.SuppressLint
 import android.os.Parcel
 import android.os.Parcelable
 import java.lang.reflect.AccessibleObject
 import java.lang.reflect.Modifier
 
+@SuppressLint("ParcelCreator")
 interface OkParcelable: Parcelable {
 
     override fun writeToParcel(parcel: Parcel, flags: Int) {

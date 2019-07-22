@@ -25,6 +25,7 @@ dependencies {
     implementation project(':okparcelable')
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'cn.thens:okbinder:0.1.0'
+//    implementation 'cn.thens:okparcelable:0.1.0'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'

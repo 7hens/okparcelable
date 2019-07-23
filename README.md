@@ -1,3 +1,5 @@
+
+
 # OkParcelable
 
 [![Download](https://api.bintray.com/packages/7hens/maven/okparcelable/images/download.svg)](https://bintray.com/7hens/maven/okparcelable/_latestVersion)
@@ -23,6 +25,4 @@ Just let your data class implement OkParcelable.
 
 *让你的数据类直接实现 OkParcelable 就好了。*
 
-```kotlin
-data class YourDataClass(val a: Int): OkParcelable
-```
+![OkParcelable](https://i.loli.net/2019/07/23/5d36edb3e076260242.png)

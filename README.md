@@ -1,10 +1,9 @@
 
-
-# OkParcelable
-
 [![Download](https://api.bintray.com/packages/7hens/maven/okparcelable/images/download.svg)](https://bintray.com/7hens/maven/okparcelable/_latestVersion)
 [![license](https://img.shields.io/github/license/7hens/okparcelable.svg)](https://github.com/7hens/okparcelable/blob/master/LICENSE)
 [![stars](https://img.shields.io/github/stars/7hens/okparcelable.svg?style=social)](https://github.com/7hens/okparcelable)
+
+# OkParcelable
 
 [OkParcelable]((https://github.com/7hens/okparcelable/blob/master/okparcelable/src/main/java/cn/thens/okparcelable/OkParcelable.kt))
 is a Kotlin interface that extends Parcelable and is the easiest way to implement Parcelable.
